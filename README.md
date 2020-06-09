@@ -1,2 +1,2 @@
 # netstatus
-netstatus plugin for JASS - does not alter JKA base gameplay in any way
+netstatus plugin for JASS - project cancelled (see Yberion's YbeProxy instead)
